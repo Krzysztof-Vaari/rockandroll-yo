@@ -1,0 +1,1 @@
+RockandrollYo.ApplicationAdapter = DS.FixtureAdapter;
